@@ -59,9 +59,10 @@
 
 ## 🧑‍💻 LeetCode Stats
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your username. Delete this section if you don't use LeetCode. -->
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/ak73sharma75/">
+    <img src="https://leetcard.jacoblin.cool/ak73sharma75?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 ## 🏆 Featured Projects
@@ -85,23 +86,9 @@
   <a href="https://linkedin.com/in/akhil-sharma-a47602277"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ak73sharma75@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/AkhilSharma123456"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/ak73sharma75/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/PORTFOLIO-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
-
-<!--
-**AkhilSharma123456/AkhilSharma123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
